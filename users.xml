@@ -1,0 +1,12 @@
+<users>
+  <user>
+    <username>admin</username>
+    <password>admin</password>
+  </user>
+  <user>
+    <username>admin2</username>
+    <password>flag{admin2password}</password>
+  </user>
+</users>
+    
+    
