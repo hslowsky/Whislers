@@ -4,8 +4,8 @@
     <password>admin</password>
   </user>
   <user>
-    <username>admin2</username>
-    <password>flag{admin2password}</password>
+    <username>user1</username>
+    <password>user1</password>
   </user>
 </users>
     
